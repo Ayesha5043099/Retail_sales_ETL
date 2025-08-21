@@ -4,8 +4,6 @@
 ## Project Overview  
 This project shows how to take raw retail sales data, clean it, store it in a database, analyze it with SQL, and finally make a dashboard for visualization.  
 
----
-
 ### 1. Get the Data  
 - Download the **Superstore dataset** from Kaggle.  
 - Save it as `superstore.csv`.  
