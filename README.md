@@ -1,5 +1,5 @@
 
-# 🛒 Retail Sales Project
+# Retail Sales Project
 
 ## Project Overview  
 This project shows how to take raw retail sales data, clean it, store it in a database, analyze it with SQL, and finally make a dashboard for visualization.  
