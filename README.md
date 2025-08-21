@@ -11,10 +11,7 @@ This project shows how to take raw retail sales data, clean it, store it in a da
 ### 2. Clean the Data (Python + Pandas)  
 - Fix column names  
 - Remove or fill missing values  
-- Add a new column →  
-  ```
-  total_price = Quantity × unit_price
-  ```  
+- Add a new column → total_price
 - Save the cleaned file as `superstore_clean.csv`  
 
 ### 3. Load Data into PostgreSQL  
@@ -32,7 +29,6 @@ This project shows how to take raw retail sales data, clean it, store it in a da
 - Line graph → Monthly sales trend  
 - Pie chart → Revenue by category  
 
----
 
 ## Tools Used  
 - Python (Pandas)  
@@ -40,9 +36,3 @@ This project shows how to take raw retail sales data, clean it, store it in a da
 - SQL  
 - Power BI 
 
----
-
-## 🎯 Result  
-- Clean data stored in database  
-- SQL queries give insights  
-- Dashboard shows sales performance in simple visuals  
