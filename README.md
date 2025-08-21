@@ -6,8 +6,6 @@ This project shows how to take raw retail sales data, clean it, store it in a da
 
 ---
 
-## Steps to Do the Project
-
 ### 1. Get the Data  
 - Download the **Superstore dataset** from Kaggle.  
 - Save it as `superstore.csv`.  
