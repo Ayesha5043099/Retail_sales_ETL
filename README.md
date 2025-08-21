@@ -1,12 +1,12 @@
 
 # 🛒 Retail Sales Project
 
-## 📌 Project Overview  
+## Project Overview  
 This project shows how to take raw retail sales data, clean it, store it in a database, analyze it with SQL, and finally make a dashboard for visualization.  
 
 ---
 
-## 🔹 Steps to Do the Project
+## Steps to Do the Project
 
 ### 1. Get the Data  
 - Download the **Superstore dataset** from Kaggle.  
@@ -31,18 +31,18 @@ This project shows how to take raw retail sales data, clean it, store it in a da
 - **Total Revenue by Region**  
 - **Monthly Sales Trend**  
 
-### 5. Make Dashboard (Power BI / Google Sheets)  
+### 5. Make Dashboard (Power BI )  
 - Bar chart → Top products  
 - Line graph → Monthly sales trend  
 - Pie chart → Revenue by category  
 
 ---
 
-## 🛠️ Tools Used  
+## Tools Used  
 - Python (Pandas)  
 - PostgreSQL  
 - SQL  
-- Power BI / Google Sheets  
+- Power BI 
 
 ---
 
